@@ -4,7 +4,7 @@
 
 Built by [Sidharth Sundaram](https://sidharthsundaram.com) as a PM internship application artifact.
 
-[View Live](https://sid-grasshopper.vercel-app/)
+[View Live](https://sid-grasshopper.vercel.app/)
 
 ---
 
